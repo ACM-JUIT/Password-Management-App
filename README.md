@@ -10,12 +10,12 @@ An android app to store your passwords. With this application you'll no longer n
 com.acm.passwordmanager
 *Language: Java/Kotlin
 
-##Features
+## Features
 
 *User Authentication
 *Genrate strong passwords
 *Check paassword's strength
 
-##Tools & References
+## Tools & References
 
 *[Firebase](https://firebase.google.com/docs/android/setup) : Google's mobile platform that helps you quickly develop high-quality apps
