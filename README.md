@@ -6,14 +6,18 @@ An android app to store your passwords. With this application you'll no longer n
 ## Specifications
 
 *MIN SDK Version: 32
+
 *Package Name:
 com.acm.passwordmanager
+
 *Language: Java/Kotlin
 
 ## Features
 
 *User Authentication
+
 *Genrate strong passwords
+
 *Check paassword's strength
 
 ## Tools & References
