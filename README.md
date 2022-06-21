@@ -15,6 +15,7 @@ com.acm.passwordmanager
 * User Authentication
 * Genrate strong passwords
 * Check paassword's strength
+* Encrypt passwords before saving
 
 ## Tools & References
 
